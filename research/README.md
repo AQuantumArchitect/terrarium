@@ -9,6 +9,7 @@ Research sweeps feeding the canon. Each file cites its sources; anything marked 
 - [partners-municipal-2.md](partners-municipal-2.md): pass two, covering the rest of California, national models, faith-based disaster networks, libraries and schools.
 - [partners-ecocommunities.md](partners-ecocommunities.md): eco-villages, cohousing and suburban retrofit communities.
 - [partners-ecocommunities-2.md](partners-ecocommunities-2.md): pass two, covering the rest of the US and international communities, plus methods worth borrowing for replication, governance and care.
+- [ready-gov-alignment.md](ready-gov-alignment.md): Ready.gov, Listos California and Ready Ventura County topics mapped to Terrarium pages, with reuse rules, a FEMA grant-language crosswalk, a top-20 build list and a social calendar.
 - [search-terms.md](search-terms.md): search intent and content opportunities for the storefront and social.
 
 Note: suppliers.md flags Berkey as one to avoid (the EPA's Black Berkey filter ban was upheld 2026-09-18), which overrides the Berkey commission note in affiliate-programs.md.
