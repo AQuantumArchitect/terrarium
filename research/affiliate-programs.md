@@ -24,6 +24,17 @@ Where a field was not found, it says "n/f". Commission is a percent of the sale 
 
 ---
 
+## Luke's direction (Nov 11, 2026)
+
+- **No zero-percent programs.** Terrarium is mission-driven but has to earn. Programs that pay 0% (Lowe's affiliate since July 2026, Target's 0% categories, Best Buy's 0% categories, Costco's product links) are out. The Lowe's Creator Program is a separate track and stays a "Try".
+- **Costco is out** because it pays only on memberships. Sam's Club (1.6% on products) can take its place.
+- **Berkey is out** after the EPA ban on Black Berkey filters was upheld on 2026-09-18 (see suppliers.md), whatever its commission.
+- **Long-term map.** Programs that turn down young or low-traffic sites aren't dead, just later. Re-apply on this schedule:
+  - **Around 3 months after the store has steady original content:** the AvantLink programs (REI, Backcountry, Bass Pro, Cabela's, Sawyer, Augason Farms, Mountain House, BioLite, Kodiak Canvas, Lectric, Midland).
+  - **Once Instagram passes 500 followers:** the Rakuten influencer track.
+  - **Once one platform passes 10,000 followers:** Levanta, for Amazon-seller goods without Associates.
+
+
 ## 1. Recommended apply order
 
 ### What's in place, and what blocks everything
