@@ -20,7 +20,7 @@ Terrarium is Luke Spooner's neighborhood-resilience project: the Suburban Gap th
 
 Size figures are taken only from a page cited in the row. If a current official page does not state a headcount, the cell says so. Older directories (especially pre-2020 Coho/US and FIC lists) are not used as current population counts.
 
-**Public contact route** is a website or contact page only. Personal emails and resident names found on HOA pages are omitted. A friend's forming intentional community near Asheville, NC, already exists in Luke's personal network; it is omitted here, and no private individuals are named.
+**Public contact route** is a website or contact page only. Personal emails and resident names found on HOA pages are omitted. No private individuals are named.
 
 The July 2025 Terrarium Lords pitch deck line "Partnership with LA Eco-Village, 40+ members" is a game-scenario beat, not evidence of an existing real-world partnership. Luke's notes do name Los Angeles Eco-Village and The Emerald Village Observatory as preferred partners to approach.
 
@@ -29,8 +29,8 @@ The July 2025 Terrarium Lords pitch deck line "Partnership with LA Eco-Village, 
 Searched 11 November 2026:
 
 - `gh search` across AQuantumArchitect for ecovillage, cohousing, intentional community, Transition Town, Village Homes, agrihood, Culdesac, and Dervaes. No dedicated partner map turned up. `AQuantumArchitect/terrarium` (the new canon repo) is still empty. A later code search hit a GitHub rate limit; local clones were used instead.
-- Local clones under `/workspace/terrarium-research/repos/` (`terrarium`, `terrarium-storefront`, `terrarium-ecom`) and `/workspace/terrarium-storefront`, `/workspace/tsf`.
-- `/home/box/terrarium-notes` and storefront docs (`TERRARIUM_LORDS_PITCH_DECK.md`, `docs/brand/channels.md`).
+- Local clones under local clones (`terrarium`, `terrarium-storefront`, `terrarium-ecom`) and local clones, local clones.
+- private notes and storefront docs (`TERRARIUM_LORDS_PITCH_DECK.md`, `docs/brand/channels.md`).
 
 What was already on file, and what was not:
 
@@ -38,7 +38,6 @@ What was already on file, and what was not:
 - **Preferred partners already named (July 2025 notes):** Los Angeles Eco-Village (LAEV) and The Emerald Village Observatory (EVO), chosen as LA-area intentional-community partners.
 - **Precedents already in the public framing:** permaculture, Transition Towns, and the circular economy. `docs/brand/channels.md` notes that HOAs and eco-villages often organize on Facebook.
 - **Pitch-deck caution:** the "Urban Station Beta" slide presents a partnership with LA Eco-Village as a Player Lord scenario. Do not claim that partnership is live.
-- **Omitted:** the private Asheville-area community in Luke's personal network.
 
 ## Top 15
 
@@ -161,8 +160,8 @@ Sixty-nine entries plus the network organizations in the following section. "Con
 | 49 | Willowsford Conservancy & Farm | Loudoun County, VA (Aldie / Ashburn area) | Agrihood farm + conservancy | Official conservancy/farm site; community is large; do not invent lot counts | Farm and conservancy wrapped around a suburban development. | Case study of agrihood infrastructure. | https://willowsfordconservancy.org/willowsford-farm/ | 3 | https://willowsfordconservancy.org/ |
 | 50 | South Village | South Burlington, VT | Agrihood | Official site: community organized around a 12-acre organic farm | New England suburban agrihood at a readable scale. | Case study. | https://www.southvillage.com/about-south-village/agrihood-the-farm/ | 3 | https://www.southvillage.com/about-south-village/ |
 | 51 | Civano | Tucson, AZ | Early sustainable subdivision | Official neighborhood/HOA site | 1990s desert sustainable-subdivision precedent; HOA, not an intentional community. | Built-form case study. | https://civano.org/ | 3 | https://civano.org/ |
-| 52 | Olivette Riverside Community & Farm | Near Asheville, NC | Agrihood / farm community | Official site describes it as a farm-to-table community; confirm current acreage on that site before quoting | Public agrihood, distinct from any private community in Luke's personal network. Include only as a public precedent. | Case study only. Do not conflate with private contacts. | https://www.olivettenc.com/ | 3 | https://www.olivettenc.com/ |
-| 53 | Earthaven Ecovillage | Western NC (about 45 minutes southeast of Asheville) | Aspiring ecovillage (their word) | 329 acres; ~75 adult residents and 25 children (official FAQ) | Living laboratory, permaculture, local currency, School of Integrated Living, tours. Rural mountain, not suburban retrofit. Public and distinct from any private Asheville-area project. | Tour / SOIL program; rural ecovillage case study. | https://www.earthaven.org/faqs/ ; visiting info on earthaven.org | 3 | https://www.earthaven.org/faqs/ ; https://www.earthaven.org/what-is-earthaven/ |
+| 52 | Olivette Riverside Community & Farm | Near Asheville, NC | Agrihood / farm community | Official site describes it as a farm-to-table community; confirm current acreage on that site before quoting | Public agrihood. Include only as a public precedent. | Case study only. | https://www.olivettenc.com/ | 3 | https://www.olivettenc.com/ |
+| 53 | Earthaven Ecovillage | Western NC (about 45 minutes southeast of Asheville) | Aspiring ecovillage (their word) | 329 acres; ~75 adult residents and 25 children (official FAQ) | Living laboratory, permaculture, local currency, School of Integrated Living, tours. Rural mountain, not suburban retrofit. | Tour / SOIL program; rural ecovillage case study. | https://www.earthaven.org/faqs/ ; visiting info on earthaven.org | 3 | https://www.earthaven.org/faqs/ ; https://www.earthaven.org/what-is-earthaven/ |
 | 54 | The Farm Community | Summertown, TN | Historic intentional community / eco-village | FIC listing: about 1,750 acres and about 225 residents; confirm on the official site before quoting | Famous 1970s community, midwifery, mid-scale village life. Rural, with a communal history Terrarium explicitly is not trying to copy. | Background case study; Welcome Center path if Luke ever visits. | https://thefarmcommunity.com/ | 2 | https://thefarmcommunity.com/ ; https://www.ic.org/directory/community/the-farm/ |
 | 55 | Dancing Rabbit Ecovillage | Rutledge, MO | Rural ecovillage + land trust | 280-acre land trust (official land page). Current population should be read from the site, not older listings. | Strong ecological building and land-trust practice; rural Missouri, not suburbia. | Case study; visitor program per their site. | https://www.dancingrabbit.org/ | 3 | https://www.dancingrabbit.org/ ; https://www.dancingrabbit.org/ecovillage-life/our-land/dancing-rabbit-land-trust/ |
 | 56 | Twin Oaks Community | Louisa, VA | Income-sharing intentional community | Confirm current membership on twinoaks.org before quoting a number | Long-running, well documented, but income-sharing and communal in a way Terrarium rejects as its model. Useful as a contrast case. | Contrast case study only; pre-arranged tours, no drop-ins. | https://www.twinoaks.org/ | 2 | https://www.twinoaks.org/ |
@@ -224,7 +223,7 @@ Older FIC / GEN-style lists (including a circulated "Ecovillages in the Fellowsh
 
 ## Suggested use (no outreach sent)
 
-If Luke later wants a first wave of public, low-pressure approaches, a sensible order is: (1) read and visit LAEV's public tour, N Street (by appointment), Village Homes as a case study, and the Urban Homestead's public programs; (2) study Cool Petaluma, Daily Acts, Transition Berkeley / Transition US, and OAEC as organizing and education peers; (3) use EcoVillage at Ithaca as the written precedent for neighborhoods that split when full; (4) treat Culdesac, The Cannery, Agritopia, and Serenbe as built-form comparisons, not peer communities; (5) keep Earthaven and Olivette in the "public Asheville-region precedents" file, separate from any private network contact. CalCoho and EBCOHO are better first doors to cohousing than emailing individual residents.
+If Luke later wants a first wave of public, low-pressure approaches, a sensible order is: (1) read and visit LAEV's public tour, N Street (by appointment), Village Homes as a case study, and the Urban Homestead's public programs; (2) study Cool Petaluma, Daily Acts, Transition Berkeley / Transition US, and OAEC as organizing and education peers; (3) use EcoVillage at Ithaca as the written precedent for neighborhoods that split when full; (4) treat Culdesac, The Cannery, Agritopia, and Serenbe as built-form comparisons, not peer communities; (5) keep Earthaven and Olivette in the "public Asheville-region precedents" file. CalCoho and EBCOHO are better first doors to cohousing than emailing individual residents.
 
 Nobody listed here has been contacted in this research pass.
 
@@ -350,7 +349,7 @@ Fetched or searched 11 November 2026, America/Los_Angeles. Each live row above c
 
 Internal notes consulted, not used as evidence of a live partnership:
 
-- `/home/box/terrarium-notes/chat-digests.md` (preferred partners: LAEV and EVO)
-- `/home/box/terrarium-notes/terrarium-history.md` (July 2025 LA-area partner naming; Transition Towns and permaculture as precedents)
+- private notes (preferred partners: LAEV and EVO)
+- private notes (July 2025 LA-area partner naming; Transition Towns and permaculture as precedents)
 - `/workspace/terrarium-storefront/docs/TERRARIUM_LORDS_PITCH_DECK.md` (Urban Station Beta slide)
 - `/workspace/terrarium-storefront/docs/brand/channels.md`

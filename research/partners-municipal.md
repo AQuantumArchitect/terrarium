@@ -3,7 +3,7 @@
 **Research date:** Wednesday, November 11, 2026 (America/Los_Angeles)  
 **Scope:** Municipal and civic partners only (emergency management, CERT, Listos, Map Your Neighborhood–style programs, neighborhood councils, fire safe councils, resilience hubs, libraries, VOAD, Red Cross, school preparedness, and national models worth copying). A separate pass covers eco-villages and intentional communities.  
 **Focus region first:** Ventura County and neighboring cities and counties (Camarillo, Oxnard, Thousand Oaks, Simi Valley, Ventura, Moorpark, Santa Barbara County, Los Angeles County west side), then notable California and national models.  
-**Method:** Checked GitHub (`AQuantumArchitect/terrarium`, `terrarium-storefront`, `terrarium-ecom`) and `/home/box` notes first, then official public websites. Facts below are taken from those pages or from official PDFs linked from them. Nothing here was invented. No one was contacted. Luke sends any outreach himself.  
+**Method:** Checked GitHub (`AQuantumArchitect/terrarium`, `terrarium-storefront`, `terrarium-ecom`) and private notes first, then official public websites. Facts below are taken from those pages or from official PDFs linked from them. Nothing here was invented. No one was contacted. Luke sends any outreach himself.  
 **Location rule:** This memo does not name or imply Luke’s exact city or address. The focus region is stated because it is the project’s civic theater, not a residence claim.
 
 ## Constraints and how to use this list
@@ -16,12 +16,12 @@
 
 ## What was already in the Terrarium record
 
-Luke thought he had done some of this research. A search of the three Terrarium GitHub repos, `/workspace/terrarium-storefront`, `/workspace/tsf`, `/workspace/terrarium-research/repos`, and `/home/box/terrarium-notes` found **no existing municipal partner map**.
+Luke thought he had done some of this research. A search of the three Terrarium GitHub repos, local clones, local clones, local clones, and private notes found **no existing municipal partner map**.
 
 What does exist, and was reused as a starting checklist rather than as a source of facts:
 
 - **Storefront civic concepts already on the site:** `cert-basic-training`, `map-your-neighborhood-block`, `voad-and-spontaneous-volunteers`, `local-oem-interface`, `official-alert-signup`, `red-cross-first-aid-cpr`, `ics-shared-language`, and `window-status-cards`. Brand copy already tells readers to find their county emergency management office, sign up for local alerts, reach 2-1-1, and find CERT training, and to link only to official government sources.
-- **July 3, 2025 grant-strategy chat** (summarized in `/home/box/terrarium-notes/chat-digests.md` and `terrarium-history.md`): Listos California appears as a **grant opportunity**, not as a mapped local partner list. The same notes mention California Strategic Growth Council Community Resilience Centers, Community Resilience Hubs, and a “Scrappy Build” plan. Those notes also flag that 2025 opportunity lists may be stale. Intentional-community names in those notes (LA Eco-Village, Emerald Village) belong on the eco-village pass, not here.
+- **July 3, 2025 grant-strategy chat** (summarized in private notes and `terrarium-history.md`): Listos California appears as a **grant opportunity**, not as a mapped local partner list. The same notes mention California Strategic Growth Council Community Resilience Centers, Community Resilience Hubs, and a “Scrappy Build” plan. Those notes also flag that 2025 opportunity lists may be stale. Intentional-community names in those notes (LA Eco-Village, Emerald Village) belong on the eco-village pass, not here.
 - The new canon repo `AQuantumArchitect/terrarium` was empty of documentation at the time of this search (no files on the default branch beyond git metadata).
 
 This document is therefore a first assembled municipal map, not an update of a prior partner table.
@@ -222,6 +222,6 @@ Official pages and documents consulted (all retrieved or confirmed on November 1
 45. [https://mil.wa.gov/myn-contact-information](https://mil.wa.gov/myn-contact-information)
 46. [https://www.nyc.gov/site/em/ready/community-preparedness.page](https://www.nyc.gov/site/em/ready/community-preparedness.page)
 47. [https://news.transitionnetwork.org/10-stories-of-transition-in-the-us-building-community-with-transition-streets/](https://news.transitionnetwork.org/10-stories-of-transition-in-the-us-building-community-with-transition-streets/)
-48. Prior Terrarium record: `/home/box/terrarium-notes/chat-digests.md`, `/home/box/terrarium-notes/terrarium-history.md`, and civic concepts in `AQuantumArchitect/terrarium-storefront` (no municipal partner table was present).
+48. Prior Terrarium record: private notes, private notes, and civic concepts in `AQuantumArchitect/terrarium-storefront` (no municipal partner table was present).
 
 **Intentionally unused or unreliable:** nhnpreparedness.com (gambling parking page as of this research). Personal cell numbers published on some official CERT pages.
