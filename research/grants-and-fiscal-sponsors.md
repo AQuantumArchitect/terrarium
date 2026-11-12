@@ -1,0 +1,134 @@
+# Terrarium: grants and fiscal sponsors
+
+Research sweep checked on Nov 11, 2026 (PT). Region: Ventura County, CA, plus the Santa Barbara / UCSB corridor.
+Rule for this file: every amount, fee and deadline comes from the source linked in that row. When the source didn't state something, the row says **unverified**. Nothing here has been applied for, signed up for or sent.
+
+---
+
+## Recommended path
+
+**Constraints that shape everything below**
+- Terrarium has no legal entity yet. Most funders need either a 501(c)(3) or a 501(c)(3) fiscal sponsor that accepts the grant for us. The VCCF, Santa Barbara Foundation, McCune and Patagonia all accept fiscally sponsored projects.
+- **Keep the affiliate store out of the sponsored project.** Community Partners refuses "profit-making ventures" and Social Good Fund refuses e-commerce and merchandise sales. The store should stay a separate venture owned by Luke. The sponsored "Terrarium Project" would be the free frameworks, neighbor coordination, workshops and Stations work.
+- **Grant-funded programs must be secular and open to everyone.** The Santa Barbara Foundation funds faith-based groups only for secular projects. Social Good Fund won't sponsor projects whose main activity is religious practice. The widows-and-orphans motive and the recommendation to direct extra resources to refugees, disabled adults, the elderly and orphans both fit well. Pitch them as radical hospitality, not as ministry.
+- **Leave power tools, construction, housing and food prep out of the first sponsored scope.** Community Partners lists "use of power tools", construction, and projects where housing is central as disqualifying. Social Good Fund excludes housing and cooking food for the public. Start with tabletop exercises, neighbor mapping, preparedness workshops and coordination. Fabrication and hospitality stays come later, once there's a 501(c)(3).
+
+**Fiscal sponsor: apply to Community Partners first. SEE is the lean backup.**
+1. **Community Partners (Los Angeles), comprehensive Model A sponsorship.** It's regional, has run for decades, and **accepts government grants**, which matters because Listos, SGC and Cal Fire money is government money. Fees are 9% on private money and 15% on public money, with a $2,000/yr minimum after year 1 and $200–$1,000/yr for liability insurance. Proposals are due on the 1st of Feb, May, Aug and Nov, so the **next window is Feb 1, 2027**. Review takes about 6–8 weeks. There's no application fee, and you must watch a required video first. Its 9% private fee fits under the VCCF's 10% cap on sponsor fees.
+2. **Social & Environmental Entrepreneurs (SEE, SoCal), the backup.** The fee is 6.5% with a $225/yr minimum and a $100 activation fee. You need a full application with a first-year budget, then an interview. Whether SEE accepts government grants is **unverified**.
+3. **Social Good Fund**, only if Luke wants a private-donations-only start. It charges 8% for Model A or 6.5% for Model C, plus $29/mo (refunded above $5k/yr). It takes about 100 of roughly 1,000 applicants a year. It **won't accept government grants** and won't host projects that sell merchandise.
+
+**First 5 grants to target (in order)**
+1. **NFPA / State Farm Wildfire Community Preparedness Day award (about $500).** A tiny but quick first win and track record: one hands-on neighbor project on a single block. The 2027 cycle isn't announced yet. Eligibility without a 501(c)(3) is **unverified**.
+2. **Ventura County Community Foundation (VCCF) open grants and the Disaster Relief / Sudden and Urgent Needs funds.** It's local and explicitly accepts fiscally sponsored projects. Watch the VCCF portal for a fund whose purpose fits. Amounts vary by fund; for example, the Swift health fund gives typical awards of $3k–$10k.
+3. **California Fire Foundation × Edison "Southern, Central & Coastal Fire Prevention & Preparedness" grant ($5k–$75k).** It covers nonprofits in Southern California Edison's service area, and "wildfire education and organizing" plus Firewise / Fire Safe Council expansion are named focus areas. The 2026 window (Aug 17 – Sep 14) has closed, and the 2027 dates are **unverified** (expect a similar late-summer window). Whether a sponsor can apply on our behalf is **unverified**.
+4. **Listos California Regional Grant, Southern region (up to $150k, or $300k when serving multiple counties).** This is the best-matched state program: preparedness training for vulnerable residents, including older adults and people with disabilities. It requires a 501(c)(3) registered with the CA DOJ, so the application would go through the sponsor, which is why it needs one that takes government money, like Community Partners. The FY25-26 deadline was Feb 23, 2026, and the next cycle is **unverified**. Realistic after a year of track record; one route is a subgrant from a lead nonprofit.
+5. **SGC Community Resilience Centers (CRC), Round 3 as a partner.** Round 2 put about $55M on the table (about $5M for planning grants, $50M for implementation). It closed Sept 2026, with awards in spring 2027. CRC funds resilience centers plus year-round programming. Terrarium would be the programming / neighbor-network partner on a city- or county-led application, not the lead. Round 3 timing is **unverified**.
+
+**Do these alongside the grants (not grants, but high leverage, $0)**
+- **Bren School (UCSB) MESM Impact Project proposal, due Jan 18, 2027.** A team of 4–6 master's students works for a year on a defined problem, and it's free to submit. A good pitch would be "measure the Suburban Gap: how 30-day-ready is a Ventura County tract, and what does neighbor coordination add?" That builds the evidence base every later grant needs.
+- **UCSB/IV CERT Train-the-Trainer, next course Winter 2027.** UCSB says it's the only university that trains students to *teach* CERT. Getting CERT-certified and linked to the program gives the Stations a credential and a partner.
+- **McCune Foundation**, but only if a resident-led organizing angle develops. Its next LOI deadline is January 2027; first grants are generally $25k or less.
+
+---
+
+## 1. Fiscal sponsors
+
+| Name | Model | Fees | Gov't grants? | Process / cycle | Fit (1-5) | Status | Source |
+|---|---|---|---|---|---|---|---|
+| Community Partners (LA) | Comprehensive (A) and limited (C) | A: 9% private, 15% public; $2k/yr minimum after year 1; insurance $200–1,000/yr. C: 6% | Yes (A); case by case (C) | Pre-application with required video, then proposal, then meeting with the board; due 1st of Feb/May/Aug/Nov; about 6–8 weeks. Excludes profit-making ventures, power tools, construction, housing-central projects | 5 | Active | https://communitypartners.org/fiscal-sponsorship/how-to-apply/ ; https://portal.communitypartners.org/faq-new ; https://communitypartners.org/fiscal-sponsorship/application/ |
+| Social & Environmental Entrepreneurs (SEE) | Comprehensive | 6.5%, $225/yr minimum, $100 activation | **Unverified** | Full application with first-year budget, then interview | 4 | Active | https://saveourplanet.org/join-us/apply/ ; https://fiscalsponsordirectory.org/social-environmental-entrepreneurs/ |
+| Social Good Fund | A and C | A 8%, C 6.5%, plus $29/mo (refunded at $5k+/yr) | **No** | Application, then inquiry call about 2 weeks later; starts 3–5 weeks after that. Excludes e-commerce, religious practice, housing, food prep, direct financial mutual aid | 3 | Active | https://www.socialgoodfund.org/fiscal-sponsorship/faq/ |
+| Community Initiatives (SF) | Comprehensive | 10% non-gov't, 15% gov't; $50k/yr fundraising minimum ($5k minimum fee) | Yes | Application; mission fit and readiness | 2 (minimum too high for now) | Active | https://communityinitiatives.org/learn/fees-and-minimums/ |
+| Players Philanthropy Fund | Comprehensive | 6% plus $5,000 opening deposit; $30k/yr budget minimum | **Unverified** | Free online application, then intro call, agreement, deposit | 2 | Active | https://ppf.org/faqs/ |
+| Earth Island Institute | Comprehensive | 10% general; negotiated indirect rate on federal grants | Yes (federal at negotiated rate) | Project application; environmental focus | 2 | Active | https://fiscalsponsordirectory.org/earth-island-institute/ |
+| Santa Barbara Foundation (as sponsor) | Case by case | **Unverified** | n/a | "In some cases" sponsors projects awaiting exempt status; mostly serves Santa Barbara County | 1 (geography) | Active | https://sbfoundation.org/nonprofits/eligibility-criteria-faqs/ |
+| Fractured Atlas | Comprehensive | 8% | n/a | **Arts projects only** | 1 | Active, but not eligible | https://fracturedatlas.zendesk.com/hc/en-us/articles/115001324734-Requirements |
+| Hack Club HCB (The Hack Foundation) | Comprehensive | 7% flat | n/a | **Teen-led (13–18) projects only**; adults not accepted | 0 | Active, but not eligible | https://help.hcb.hackclub.com/en/articles/15409923-who-can-apply-for-fiscal-sponsorship |
+| Open Collective Foundation | — | — | — | **Dissolved; sponsorship ended Sept 30, 2024.** Successors are regional or niche (Pact Collective NY, Social Change Nest UK, Superbloom for tech) and none fit | 0 | **Defunct** | https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/ ; https://blog.opencollective.com/fiscal-hosting-options/ |
+| Finder tool | — | — | — | Fiscal Sponsor Directory, for a wider search if the first two say no | — | Active | https://fiscalsponsordirectory.org/ |
+
+## 2. Federal and state programs
+
+| Name | Funder | Amount | Eligibility (501c3 / sponsor?) | Deadline / cycle | Fit | Status | Source |
+|---|---|---|---|---|---|---|---|
+| Listos California Regional Grant, Southern (LL) | Cal OES | Up to $150k; +$50k per county beyond 2, max $300k ($1.5M pool) | 501(c)(3) on CA DOJ registry; no match; 25% advance | FY25-26 closed Feb 23, 2026; performance Jun 2026 – Dec 2027; next cycle **unverified** | 4 | Active program | https://www.caloes.ca.gov/wp-content/uploads/Grants/Documents/CFO/FY25-Listos-Regional-SOUTHERN-LL-FINAL.pdf |
+| Listos California Statewide (LS) | Cal OES | Up to $750k ($2.25M pool) | 501(c)(3) serving at least 10 counties via chapters | Closed Feb 23, 2026 | 1 (scale) | Active | https://www.caloes.ca.gov/wp-content/uploads/Grants/Documents/CFO/FY25-Listos-Statewide-LS-FINAL.pdf |
+| Community Resilience Centers (CRC) | CA Strategic Growth Council | Round 2: about $55M ($5M planning / $50M implementation) | Eligible-applicant details per guidelines (**unverified** for sponsored projects); best as a partner on a city- or county-led application | R2 closed Sept 4 (planning) / Sept 30, 2026 (implementation); awards spring 2027; R3 **unverified** | 3 | Active | https://sgc.ca.gov/grant-programs/crc/ ; https://sgc.ca.gov/wp-content/uploads/2026.04.29-CRC-Final-Round-2-Guidelines-REMEDIATED.pdf |
+| Wildfire Prevention Grants | CAL FIRE (CA Climate Investments) | **Unverified** for 2026-27 | 501(c)(3) nonprofits, Fire Safe Councils; covers fuels, planning and **education** | 2026-27 closed Jul 8, 2026; next **unverified** | 3 | Active | https://www.fire.ca.gov/what-we-do/grants/wildfire-prevention-grants |
+| Volunteer Infrastructure RFAs (e.g., CV26-104) | California Volunteers | **Unverified** | Mostly local governments / large orgs; nonprofits usually as partners | CV26-104 was due Nov 9, 2026 | 2 | Active | https://www.californiavolunteers.ca.gov/grants/ |
+| Neighbor-to-Neighbor | California Volunteers | **Unverified** | Awarded to local governments; CBOs as partners | 2024–2026 program; not listed as open | 2 | Ended / not open | https://www.californiavolunteers.ca.gov/neighbor-to-neighbor/ |
+| CERT / Citizen Corps funds (in Homeland Security Grant Program) | FEMA, via state and local government | Varies | Local governments; nonprofits partner with the jurisdiction (e.g., county CERT) | Annual HSGP | 2 | Active | https://www.fema.gov/grants/preparedness/homeland-security |
+| AmeriCorps Volunteer Generation Fund | AmeriCorps | Continuation awards, e.g., $2M to a CA program | State commissions / established orgs | FY26 due May 4, 2026; funds protected through FY26-27 by settlement | 1 | Active | https://www.americorps.gov/funding-opportunity/fy-2026-volunteer-generation-fund ; https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-settlement-protect-americorps |
+| Hazard Mitigation Grant Program DR-4856 (LA fires) | FEMA via Cal OES | Varies | Private nonprofits only if they **own or operate a facility**; the local jurisdiction needs an approved hazard mitigation plan | Per the NOFO | 1 | Active | https://www.caloes.ca.gov/wp-content/uploads/Hazard-Mitigation/Documents/DR-4856-HMGP-NOFO_ADA.pdf |
+| BRIC | FEMA | $1B combined FY24+FY25 NOFO (March 2026) | **State/local/tribal governments only** | Reopened March 2026 under court order; CA approvals stalled; $2.2B backlog | 1 | Revived, unreliable; see defunct section | https://www.congress.gov/crs-product/IN12609 ; https://apnews.com/article/bric-fema-grant-disasters-resilience-mullin-ff0df0da60e3001e19f97bcb7778f41c |
+| California Sea Grant, Resilient Communities | NOAA / UC San Diego | Per RFP | Applied research (usually academic lead) | 2026 biennial RFP; projects started Feb 2026 | 1 | Active | https://caseagrant.ucsd.edu/funding/2026-california-sea-grant-biennial-request-proposals |
+| USDA Community Facilities grant | USDA Rural Development | Varies | Rural areas of 20,000 people or fewer, so **suburban Ventura County isn't eligible** | Rolling | 0 | Active, ineligible | https://www.rd.usda.gov/programs-services/community-facilities/community-facilities-direct-loan-grant-program |
+
+## 3. Foundations, community foundations, corporate
+
+| Name | Funder | Amount | Eligibility | Deadline / cycle | Fit | Status | Source |
+|---|---|---|---|---|---|---|---|
+| VCCF annual grant opportunities + Disaster Relief / Sudden & Urgent Needs funds | Ventura County Community Foundation | Varies by fund (e.g., Swift health fund $3k–10k, max $20k; ArtLife pool about $55k) | **Accepts fiscally sponsored projects**; sponsor fee capped at the greater of $100 or 10% of funded direct costs | Per fund; most 2026 rounds closed; check the portal | 4 | Active | https://vccf.org/grants/past-current-and-upcoming-grants/ ; https://vccf.org/wp-content/uploads/2023/01/vccf-policy-on-fiscal-sponsorhip-3.pdf |
+| Fall Fire Prevention & Preparedness Grant | California Fire Foundation × Edison | $5k–$75k typical | CA nonprofits, fire departments, tribes in SCE territory; sponsor eligibility **unverified** | 2026: Aug 17 – Sep 14 (closed); awards Oct | 4 | Active | https://www.cafirefoundation.org/what-we-do/for-grant-seekers/funding-opportunities/fall-edison |
+| Wildfire Community Preparedness Day awards | NFPA + State Farm | $500 historically | Community groups; 501c3 need **unverified** | 2027 not announced | 4 (first win) | Active | https://www.nfpa.org/about-nfpa/press-room/news-releases/2025/application-period-open-for-2026-wildfire-community-preparedness-day-project-funding |
+| McCune Foundation | McCune Foundation (Ventura) | Up to $50k/yr; first grants generally $25k or less; mini-grants $500–5k | 501(c)(3) **or fiscally sponsored**; Santa Barbara & Ventura Counties; must be **resident-led organizing for systemic change** (no direct services or purely educational programs) | LOI Jan 2027 (spring cycle) and July (fall) | 2 | Active | https://mccunefoundation.org/for-grantseekers/ |
+| Santa Barbara Foundation community grants + Disaster Relief Fund | Santa Barbara Foundation | Per program | 501(c)(3) or fiscally sponsored, but **only for programs in Santa Barbara County**; faith-based projects must be secular | Per program; disaster fund rolling | 1 now (3 if a Station lands in SB County) | Active | https://sbfoundation.org/nonprofits/eligibility-criteria-faqs/ ; https://sbfoundation.org/nonprofits/grant-opportunities/ |
+| Grassroots Collaborative Program | Patagonia (Ventura HQ) | **Unverified** | 501(c)(3) or comparable sponsor; environmental priorities; **invitation only** (you can be recommended) | Invitation only | 2 | Active | https://www.patagonia.com/how-we-fund/ ; https://www.patagonia.com/how-we-fund/grant-faq/ |
+| Edison International community grants | Edison International | **Unverified** | **Invitation only**; priorities include climate resiliency and emergency preparedness | Invitation only | 2 | Active | https://www.edison.com/community |
+| Good Neighbor Citizenship grants | State Farm | **Unverified** | Nonprofits etc.; disaster preparedness is a focus; **invitation only** (request questionnaire available) | Invitation only | 2 | Active | https://www.statefarm.com/about-us/corporate-responsibility/community-grants |
+| California Arbor Week small grants | California ReLeaf × Edison | $5k | Tree planting in climate-vulnerable communities | **Unverified** | 1 | Active | https://californiareleaf.org/grants/california-arbor-week-grant-program/ |
+
+## 4. UCSB and academic partnerships (the "UCSB cluster")
+
+Luke remembered that "community resilience" and "preparedness" searches kept surfacing UCSB. They still do, and the cluster is real. None of these are cash grants to outside groups. They're partnerships, student labor and credibility.
+
+| Name | Host | What it offers Terrarium | Eligibility / ask | Cycle | Fit | Status | Source |
+|---|---|---|---|---|---|---|---|
+| MESM Impact Projects (group projects) | UCSB Bren School | Free yearlong team of 4–6 master's students on a defined environmental problem | Any org can propose; 2–4 objectives, accessible data; pre-submission help available | **Proposals due Jan 18, 2027** to projects@bren.ucsb.edu | 5 | Active | https://bren.ucsb.edu/research/masters-research/request-proposals-mesm |
+| MEDS capstone RFP | UCSB Bren School | Environmental data science capstone (could model the 12-domain readiness data) | Org proposal | Per RFP (**unverified** date) | 3 | Active | https://bren.ucsb.edu/research/masters-research/request-proposals-meds |
+| UCSB/IV CERT + Train-the-Trainer | UCSB Emergency Management (Jim Caesar), with SB City/County Fire | CERT credential; the only university training students to *teach* CERT; 60+ courses since 2010 | Courses open to the campus community; community access **unverified** | Next course Winter 2027 | 4 | Active | https://www.sustainability.ucsb.edu/cert ; https://www.sustainability.ucsb.edu/about-cert ; https://www.emergency.ucsb.edu/emergency-planning-preparedness/ucsbiv-cert |
+| Wildfire Resilience Initiative | UCSB Geography (Prof. Alan Murray; also Max Moritz, Sarah Anderson, others) | Neighborhood- and parcel-level wildfire risk and evacuation research; a natural research partner for "Station readiness" data | Research collaboration | Ongoing | 4 | Active | https://wri.ucsb.edu/ ; https://wri.ucsb.edu/people |
+| SB County Regional Climate Collaborative + Resilience Hubs program | County of Santa Barbara; UCSB is a founding member | A model and network for resilience hubs (Carpinteria, New Cuyama, Santa Barbara sites); Edison funds the Carpinteria hub yearly | Partnership / learning; Santa Barbara County focus | Ongoing; Central Coast Sustainability Summit yearly | 3 | Active | https://www.sustainability.ucsb.edu/focus-areas/community-partnerships ; https://www.sustainability.ucsb.edu/events/central-coast-summit/2024/resilience-hubs-climate-education |
+| Climate Resiliency Fellow / Bonnie Reiss Climate Action Fellowship | UCSB Sustainability / UC Carbon Neutrality Initiative | Student fellows already doing emergency-preparedness outreach; possible collaborators | Student roles (not for outside orgs) | Yearly | 2 | Active | https://www.sustainability.ucsb.edu/blog/sustainability-scoop/impact-bonnie-reiss-climate-action-fellows-ucsb |
+| Blum Center (cooperative economics) | UCSB | Community-engaged research on cooperatives, a link to the Mother Mycelium / gift-economy layer | Research and community partners | Ongoing | 2 | Active | https://www.blumcenter.ucsb.edu/initiatives |
+| Center for Community Engagement (service learning) | CSU Channel Islands (the nearby campus) | Service-learning students; community-based research help with data and grant applications | Partner must be a **501(c)(3), school or agency** with **$2M/$4M liability insurance** (likely through the sponsor) | Partnership request form | 3 | Active | https://www.csuci.edu/office-departments/missionbasedcenters/communityengagement/servicelearning/become-a-community-partner.html ; https://www.csuci.edu/news/channel/spring-2025/communitybasedresearch.html |
+| COAST SB participatory science | California Sea Grant (UCSD) | Model of community-science partnership in SB/Ventura | Volunteer / partner | Ongoing | 1 | Active | https://caseagrant.ucsd.edu/participatory-science/projects/coast-sb-community-alliance-surveying-topography-sandy-beaches |
+
+---
+
+## Defunct, BRIC-dependent, or closed: do not build on these
+
+| Item | What happened | What it means for Terrarium | Source |
+|---|---|---|---|
+| **FEMA BRIC** | FEMA announced it was ending BRIC Apr 4, 2025 (FY24 NOFO retracted). States sued; injunction Aug 5, 2025; final ruling Dec 11, 2025 that termination was unlawful; enforcement order Mar 6, 2026; FEMA issued one combined FY24+FY25 NOFO ($1B) in March 2026. As of fall 2026 CBS reports **no pending California BRIC projects approved this year** and a $2.2B national backlog. The ruling doesn't stop FEMA replacing BRIC later. | **Treat all old BRIC-based research as dead for Terrarium.** Even revived, BRIC only funds state, local and tribal governments for infrastructure mitigation, not neighborhood groups, and its future is uncertain. At most, Terrarium could someday be a community partner on a county application. | https://www.congress.gov/crs-product/IN12609 ; https://apnews.com/article/bric-fema-grant-disasters-resilience-mullin-ff0df0da60e3001e19f97bcb7778f41c ; https://www.cbsnews.com/losangeles/news/fema-backlog-causing-delays-in-southern-california-infrastructure-projects/ |
+| EPA Environmental Justice Thriving Communities Grantmaking (TCGM) and other EPA EJ grants | Terminated May 2025; litigation ongoing; not accepting applications | Dead. The Jul 2025 Claude chat's "EPA TCTAC $50–150k micro-awards" lead is dead. EPA UPLIFT, from the same old list, is **presumed dead (unverified)** | https://grantprobe.com/articles/epa-environmental-justice-grants-2026 ; https://www.bdlaw.com/publications/environmental-justice-developments-in-2026-states-take-the-lead-feds-recede/ |
+| USDA Rural Community Development Initiative (RCDI) | FY25 NOFO rescinded July 2026; closed until a revised NOFO; rural-only anyway | Dead / ineligible | https://www.federalregister.gov/documents/2026/07/02/2026-13397/notice-of-recission-of-funding-opportunity-for-the-rural-community-development-initiative-rcdi-for |
+| NSF CIVIC Innovation Challenge 3.0 | Cycle concluded (close-out 2026); a 4.0 round is **unverified** | Closed | https://nsfcivicinnovation.org/ |
+| NSF Smart & Connected Communities | Old list cited 2025 deadlines; current status **unverified**; research-led (needs a university PI) | Stale; only via a UCSB faculty partner | (from the Jul 2025 chat) |
+| Coastal Quest Ventura County Climate Resilience Small Grants ($5k) | Last window closed May 12, 2023 | Closed; watch for a revival | https://www.coastal-quest.org/apply-to-our-ventura-county-climate-resilience-small-grants-program-by-may-12-2023/ |
+| CA Volunteers Neighbor-to-Neighbor | 2024–2026 program to local governments; not listed as open | Closed | https://www.californiavolunteers.ca.gov/neighbor-to-neighbor/ |
+| Open Collective Foundation | Dissolved; fiscal sponsorship ended Sept 30, 2024 | Not an option | https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/ |
+| Old 2025 deadlines in the Jul 2025 list (CEC CERRI Jul 18, 2025; SGC CRC Round 1 Sept 18, 2025; USDA LFPP Jun 27, 2025; Cal OES HMGP, OPR Adaptation Planning, CDFA Healthy Refrigeration "varies") | All 2025 dates have passed; only SGC CRC was rechecked (now Round 2, closed) | Recheck each before use; don't reuse the old numbers | (from the Jul 2025 chat) |
+
+---
+
+## Did we find Luke's old research?
+
+- **GitHub:** I shallow-cloned and grepped terrarium-storefront, terrarium-ecom, terrarium (empty), the-broadcast and public-funds-desk for grant / BRIC / UCSB / fiscal sponsor. **No grant research turned up.** The only hits are a brand note that "BRIC" must be disambiguated (`terrarium-storefront/docs/brand/README.md`) and FEMA-PA tooling in public-funds-desk (FEMA Public Assistance appeals, which is a different topic). GitHub code search was rate-limited, so I grepped local clones instead.
+- **Box:** The closest match is the Claude chat **"Terrarium Project Grant Strategy" (Jul 3, 2025)**: (Luke's private Claude export). It contains ChatGPT-pasted lists (NSF S&CC, DOE SETO, USDA RCDI/CF/REDLG/REAP/VAPG/LFPP, CDC PHHS, EPA UPLIFT, NOAA, NFWF, CEC CERRI, SGC CRC, Listos, CAL FIRE, OPR, CDFA, HMGP), BRIC as the #1 pick (already flagged in that chat as "terminated April 2025"), and Community Partners (about 9%) or Social Good Fund as the fiscal sponsor. **It has no UCSB content,** so the UCSB-heavy research Luke remembers is probably in a ChatGPT or other chat that isn't on the box.
+
+## Sources
+
+All URLs are inline in the tables above. Key ones:
+- BRIC: https://www.congress.gov/crs-product/IN12609 · https://apnews.com/article/bric-fema-grant-disasters-resilience-mullin-ff0df0da60e3001e19f97bcb7778f41c · https://www.cbsnews.com/losangeles/news/fema-backlog-causing-delays-in-southern-california-infrastructure-projects/
+- Community Partners: https://communitypartners.org/fiscal-sponsorship/how-to-apply/ · https://portal.communitypartners.org/faq-new · https://communitypartners.zendesk.com/hc/en-us/articles/115002229293-How-much-does-fiscal-sponsorship-cost
+- Social Good Fund: https://www.socialgoodfund.org/fiscal-sponsorship/faq/
+- SEE: https://saveourplanet.org/join-us/apply/
+- Listos: https://www.caloes.ca.gov/office-of-the-director/policy-administration/finance-administration/grants-management/community-resiliency-listos-grants/listos-california-grant-program/
+- SGC CRC: https://sgc.ca.gov/grant-programs/crc/
+- VCCF: https://vccf.org/grants/ · https://vccf.org/wp-content/uploads/2023/01/vccf-policy-on-fiscal-sponsorhip-3.pdf
+- CA Fire Foundation × Edison: https://www.cafirefoundation.org/what-we-do/for-grant-seekers/funding-opportunities/fall-edison
+- McCune: https://mccunefoundation.org/for-grantseekers/
+- UCSB: https://bren.ucsb.edu/research/masters-research/request-proposals-mesm · https://www.sustainability.ucsb.edu/about-cert · https://wri.ucsb.edu/
+- CSUCI: https://www.csuci.edu/office-departments/missionbasedcenters/communityengagement/servicelearning/become-a-community-partner.html
