@@ -106,7 +106,7 @@ Columns: project ceiling = 12-month lock-in for project funds. Obligated = total
 
 **Method:** OpenFEMA PublicAssistanceFundedProjectsDetails v2 filtered by disaster and county ("Ventura County," "Santa Barbara County," "Los Angeles County"), summed per applicant, joined to PublicAssistanceApplicants v1. The pull ran Nov 11, 2026 at about 6:22 PM PT (rundate 2026-11-12T02:22Z). That gives 844 projects and 198 applicant-disaster pairs across DR-4683, DR-4699, DR-4769 and DR-4856.
 
-**CivicPaper Tender's files already cover DR-4769 (Ventura and LA only) and DR-4856 in full.** So for those this section lists only the leads that fit Terrarium, plus what CivicPaper Tender didn't pull: **DR-4769 Santa Barbara County** and **DR-4683 / DR-4699**. Amounts are federal share obligated.
+**For DR-4769 (Ventura and LA) and DR-4856 this section lists only the leads that fit Terrarium, plus **DR-4769 Santa Barbara County** and **DR-4683 / DR-4699**. Amounts are federal share obligated.
 
 ### 4a. Nonprofit and community-anchor applicants: best Terrarium fits (possible hubs, faith networks)
 
@@ -119,7 +119,7 @@ Columns: project ceiling = 12-month lock-in for project funds. Obligated = total
 | YMCA of Metropolitan LA (Palisades) | PNP | DR-4856 | 3 / $93,769 | A CCF story names it as "continuing to provide relief as it rebuilds"; it's a community anchor | 3 |
 | Pilgrim Place (Claremont) | PNP, senior community | DR-4856 | 4 / $112,815 | Older-adult intentional community; fits the elders thread | 3 |
 | Mater Dolorosa Passionist Retreat Center (Sierra Madre) | Religious PNP | DR-4856 | 4 / $166,083 | Retreat site in the foothills | 2 |
-| Pasadena Waldorf School ($10.47M), Sycamore School (Malibu), Seven Arrows (PP), Odyssey / Aveson / Pasadena Rosebud charters (Altadena) | Private / charter schools | DR-4856 | see CivicPaper CSV | Schools as hubs (Generation180 report in pass two) | 2–3 |
+| Pasadena Waldorf School ($10.47M), Sycamore School (Malibu), Seven Arrows (PP), Odyssey / Aveson / Pasadena Rosebud charters (Altadena) | Private / charter schools | DR-4856 | see OpenFEMA | Schools as hubs (Generation180 report in pass two) | 2–3 |
 | CALM, Inc. (Santa Barbara) | Child-wellbeing nonprofit | DR-4683 | 4 / $14,975 | Children and families; fits the orphans thread | 2 |
 | Santa Barbara Museum of Natural History | PNP | DR-4683 | 5 / $61,759 | Education partner | 2 |
 | Barlow Respiratory Hospital (LA) | PNP health | DR-4683 | 5 / $172,285 | Power-dependent patients (an energy-domain story) | 1 |
