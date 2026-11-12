@@ -13,3 +13,5 @@ Research sweeps feeding the canon. Each file cites its sources; anything marked 
 - [search-terms.md](search-terms.md): search intent and content opportunities for the storefront and social.
 
 Note: suppliers.md flags Berkey as one to avoid (the EPA's Black Berkey filter ban was upheld 2026-09-18), which overrides the Berkey commission note in affiliate-programs.md.
+
+- [disaster-recovery-funding.md](disaster-recovery-funding.md): HMGP, recovery grants, philanthropy and long-term recovery groups for DR-4769, DR-4856, DR-4683 and DR-4699 (Nov 11, 2026)
