@@ -6,6 +6,7 @@ Research sweeps feeding the canon. Each file cites its sources; anything marked 
 - [suppliers.md](suppliers.md): 178 suppliers, makers and brands across the 12 axes, with a top 25 to approach first.
 - [grants-and-fiscal-sponsors.md](grants-and-fiscal-sponsors.md): fiscal sponsors, grants still running after BRIC, and UCSB/academic partners.
 - [partners-municipal.md](partners-municipal.md): Ventura County and California civic and preparedness partners.
+- [partners-municipal-2.md](partners-municipal-2.md): pass two, covering the rest of California, national models, faith-based disaster networks, libraries and schools.
 - [partners-ecocommunities.md](partners-ecocommunities.md): eco-villages, cohousing and suburban retrofit communities.
 - [search-terms.md](search-terms.md): search intent and content opportunities for the storefront and social.
 
